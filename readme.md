@@ -1,13 +1,13 @@
 ## Olá! Sou Daniel Andrade 👋
 
 
-🌱 Estou aprendendo a programar em C
+🌱 Aprendendo a programar em C
 
 
 📫 danidemetrio40@gmail.com
 
 
-😄 Pronomes: Ele/Dele
+⭕️Consultor de Projetos da Projetos Consultoria Integrada
 
 
 📓 Estou no primeiro semestre de Engenharia de Computação
